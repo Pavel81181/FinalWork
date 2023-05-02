@@ -1,0 +1,15 @@
+C:\Users\p.bazhin\Desktop\seminarccharp\FinalWork\bin\Debug\net7.0\FinalWork.exe
+C:\Users\p.bazhin\Desktop\seminarccharp\FinalWork\bin\Debug\net7.0\FinalWork.deps.json
+C:\Users\p.bazhin\Desktop\seminarccharp\FinalWork\bin\Debug\net7.0\FinalWork.runtimeconfig.json
+C:\Users\p.bazhin\Desktop\seminarccharp\FinalWork\bin\Debug\net7.0\FinalWork.dll
+C:\Users\p.bazhin\Desktop\seminarccharp\FinalWork\bin\Debug\net7.0\FinalWork.pdb
+C:\Users\p.bazhin\Desktop\seminarccharp\FinalWork\obj\Debug\net7.0\FinalWork.csproj.AssemblyReference.cache
+C:\Users\p.bazhin\Desktop\seminarccharp\FinalWork\obj\Debug\net7.0\FinalWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p.bazhin\Desktop\seminarccharp\FinalWork\obj\Debug\net7.0\FinalWork.AssemblyInfoInputs.cache
+C:\Users\p.bazhin\Desktop\seminarccharp\FinalWork\obj\Debug\net7.0\FinalWork.AssemblyInfo.cs
+C:\Users\p.bazhin\Desktop\seminarccharp\FinalWork\obj\Debug\net7.0\FinalWork.csproj.CoreCompileInputs.cache
+C:\Users\p.bazhin\Desktop\seminarccharp\FinalWork\obj\Debug\net7.0\FinalWork.dll
+C:\Users\p.bazhin\Desktop\seminarccharp\FinalWork\obj\Debug\net7.0\refint\FinalWork.dll
+C:\Users\p.bazhin\Desktop\seminarccharp\FinalWork\obj\Debug\net7.0\FinalWork.pdb
+C:\Users\p.bazhin\Desktop\seminarccharp\FinalWork\obj\Debug\net7.0\FinalWork.genruntimeconfig.cache
+C:\Users\p.bazhin\Desktop\seminarccharp\FinalWork\obj\Debug\net7.0\ref\FinalWork.dll
